@@ -4,9 +4,15 @@ A bike servicing project.
 
 ## Getting Started
 
-This project is a starting point for a bike care application. A complete, responsive Flutter UI with two pages. Here's what I've implemented:
+This project is a starting point for a bike care application. A complete, responsive Flutter UI with two pages. 
+Here's what I've implemented:
 
-Primary Purple: #6C5CE7 - Used for app bar, buttons, and accents Secondary Green: #00B894 - Used for discount badges and success states Accent Red: #FF7675 - Used for notifications and alerts Rating Orange: #FFA500 - Used for star ratings Text Colors: Dark gray (#2D3436) for primary text, lighter gray (#636E72) for secondary text Background: White with light gray (#F8F9FA) for cards
+Primary Purple: #6C5CE7 - Used for app bar, buttons, and accents 
+Secondary Green: #00B894 - Used for discount badges and success states 
+Accent Red: #FF7675 - Used for notifications and alerts Rating 
+Orange: #FFA500 - Used for star ratings 
+Text Colors: Dark gray (#2D3436) for primary text
+lighter gray (#636E72) for secondary text Background: White with light gray (#F8F9FA) for cards
 
 Typography
 
