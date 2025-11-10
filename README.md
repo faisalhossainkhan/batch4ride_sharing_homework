@@ -37,8 +37,7 @@ Nearby Users with avatar circles Deals of the Day with product cards Upcoming Ev
 
 
 
-Interactive Elements: Shopping cart badge, rating display, discount labels
-Scroll Views: SingleChildScrollView for vertical scrolling, ListView for horizontal scrolling sections
+
 
 A few resources to get you started if this is your first Flutter project:
 
