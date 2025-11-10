@@ -16,13 +16,20 @@ lighter gray (#636E72) for secondary text Background: White with light gray (#F8
 
 Typography
 
-Heading 1: 24px, Bold - For main page titles Heading 2: 18px, Bold - For section headers Heading 3: 16px, Semi-bold - For card titles Body Large: 16px, Regular - For important body text Body Medium: 14px, Regular - For general content Caption: 12px, Regular - For secondary info Price: 18px, Bold - For pricing display
+Heading 1: 24px, Bold - For main page titles Heading 2: 18px, 
+Bold - For section headers Heading 3: 16px, 
+Semi-bold - For card titles Body Large: 16px, 
+Regular - For important body text Body Medium: 14px, 
+Regular - For general content Caption: 12px, 
+Regular - For secondary info Price: 18px, Bold - For pricing display
 
-Responsive Design: Uses LayoutBuilder and Expanded widgets to adapt to different screen sizes. Fixed Image Sizes: All images have constrained dimensions to prevent overflow. Navigation: Two pages (Home and Care) with proper AppBar navigation.
+Responsive Design: Uses LayoutBuilder and Expanded widgets to adapt to different screen sizes. 
+Fixed Image Sizes: All images have constrained dimensions to prevent overflow. 
+Navigation: Two pages (Home and Care) with proper AppBar navigation.
 
-Sections Include: Nearby Users with avatar circles Deals of the Day with product cards Upcoming Events with image cards Service Packages grid
+Sections Include: Nearby Users with avatar circles Deals of the Day with product cards Upcoming Events with image cards Service Packages grid.
 
-Interactive Elements: Shopping cart badge, rating display, discount labels Scroll Views: SingleChildScrollView for vertical scrolling, ListView for horizontal scrolling sections
+
 
 
 
