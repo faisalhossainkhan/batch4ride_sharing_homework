@@ -27,7 +27,8 @@ Responsive Design: Uses LayoutBuilder and Expanded widgets to adapt to different
 Fixed Image Sizes: All images have constrained dimensions to prevent overflow. 
 Navigation: Two pages (Home and Care) with proper AppBar navigation.
 
-Sections Include: Nearby Users with avatar circles Deals of the Day with product cards Upcoming Events with image cards Service Packages grid.
+Sections Include: 
+Nearby Users with avatar circles Deals of the Day with product cards Upcoming Events with image cards Service Packages grid.
 
 
 
